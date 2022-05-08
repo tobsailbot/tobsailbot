@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @tobsailbot
-- 👀 I’m interested in Music Production & 3D Art
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on programming for fun projects
 - 📫 How to reach me @tobsa
