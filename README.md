@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tobsailbot
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on programming for fun projects
+- 💞️ I’m looking to collaborate on programming projects
 - 📫 How to reach me @tobsa
 
 <!---
